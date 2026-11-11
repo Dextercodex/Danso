@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Danso" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#0F1C30</item>
+        <item name="android:statusBarColor">#0F1C30</item>
+        <item name="android:navigationBarColor">#0F1C30</item>
+    </style>
+</resources>
