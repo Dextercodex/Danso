@@ -1,0 +1,13 @@
+/* Android sheet tweaks */
+html, body { -webkit-tap-highlight-color: transparent; overscroll-behavior: contain; }
+body { font-size: 14px; }
+#top { top: 0; padding: 8px 12px; }
+#tabs { top: 49px; }
+.brand .word { font-size: 22px; }
+.toolbar { top: 92px; }
+.btn { min-height: 36px; }
+.btn.sm { min-height: 30px; padding: 4px 10px; }
+.tact button { min-height: 36px; }
+.seg button { min-height: 34px; }
+.grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.pv { aspect-ratio: 4 / 3; }
